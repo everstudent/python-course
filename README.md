@@ -1,2 +1,3 @@
 # python-course
-My personal education python scripts based on learning program
+
+Hi. This is my personal education python scripts based on learning program.
