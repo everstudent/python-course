@@ -1,14 +1,15 @@
 import json
 
-products = [
-  (1, {"title": "Laptop", "price": "25000", "color": "black"}),
-  (2, {"title": "Mobile", "price": "15000", "color": "gray"}),
-  (3, {"title": "TV", "price": "225000", "color": "black"}),
-  (4, {"title": "Accoustics", "price": "125000", "color": "white"}),
-  (5, {"title": "Earphones", "price": "5000", "color": "white"})
-]
+products = []
 
 analytics = {"title": [], "price": [], "color": []}
+
+for i in range(3):
+    product = {}
+    for el in analytics:
+        print('Input', el, 'for', i + 1, ' product:')
+        product[el] = input();
+    products.append((i + 1, product))
 
 print('Initial products list:')
 for product in products:
