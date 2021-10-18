@@ -1,0 +1,6 @@
+Wood 40000
+Sandoval 10000
+Russell 25000
+Haynes 15000
+Warren 50000
+Nicholls 19000
