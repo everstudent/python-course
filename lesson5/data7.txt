@@ -1,0 +1,5 @@
+Google OOO 500 400
+Facebook AO 300 250
+Twitter AO 50 75
+Sberbank GO 70 20
+Coca-Cola OOO 1000 975

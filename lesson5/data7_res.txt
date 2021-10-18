@@ -1,0 +1,1 @@
+[{"Google": 100, "Facebook": 50, "Sberbank": 50, "Coca-Cola": 25}, {"Twitter": -25}, {"avg_profits": 56.25, "avg_losses": -25.0}]
